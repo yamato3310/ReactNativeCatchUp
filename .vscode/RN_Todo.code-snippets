@@ -1,0 +1,173 @@
+{
+  "ActivityIndicator": {
+    "prefix": "ai",
+    "body": ["<ActivityIndicator>$1</ActivityIndicator>", "$1"],
+    "description": "ActivityIndicator"
+  },
+  "Button": {
+    "prefix": "btn",
+    "body": ["<Button>$1</Button>", "$1"],
+    "description": "Button"
+  },
+  "DatePickerIOS": {
+    "prefix": "iosdp",
+    "body": ["<DatePickerIOS>$1</DatePickerIOS>", "$1"],
+    "description": "DatePickerIOS"
+  },
+  "DrawerLayoutAndroid": {
+    "prefix": "anddl",
+    "body": ["<DrawerLayoutAndroid>$1</DrawerLayoutAndroid>", "$1"],
+    "description": "DrawerLayoutAndroid"
+  },
+  "FlatList": {
+    "prefix": "FlatList",
+    "body": ["<FlatList>$1</FlatList>", "$1"],
+    "description": "FlatList"
+  },
+  "Image": { "prefix": "img", "body": ["<Image>$1</Image>"] },
+  "ImageBackground": {
+    "prefix": "imgbg",
+    "body": ["<ImageBackground>$1</ImageBackground>", "$1"],
+    "description": "Image"
+  },
+  "InputAccessoryView": {
+    "prefix": "input",
+    "body": ["<InputAccessoryView>$1</InputAccessoryView>", "$1"],
+    "description": "InputAccessoryView"
+  },
+  "KeyboardAvoidingView": {
+    "prefix": "kbav",
+    "body": ["<KeyboardAvoidingView>$1</KeyboardAvoidingView>", "$1"],
+    "description": "KeyboardAvoidingView"
+  },
+  "MaskedViewIOS": {
+    "prefix": "iosmv",
+    "body": ["<MaskedViewIOS>$1</MaskedViewIOS>", "$1"],
+    "description": "MaskedViewIOS"
+  },
+  "Modal": {
+    "prefix": "m",
+    "body": ["<Modal>$1</Modal>", "$1"],
+    "description": "Modal"
+  },
+  "Picker": {
+    "prefix": "p",
+    "body": ["<Picker>$1</Picker", "$1"],
+    "description": "Picker"
+  },
+  "PickerIOS": {
+    "prefix": "iosp",
+    "body": ["<PickerIOS>$1</PickerIOS", "$1"],
+    "description": "PickerIOS"
+  },
+  "ProgressBarAndroid": {
+    "prefix": "andpb",
+    "body": ["<ProgressBarAndroid>$1</ProgressBarAndroid>"],
+    "description": "ProgressBarAndroid"
+  },
+  "ProgressViewIOS": {
+    "prefix": "iospv",
+    "body": ["<ProgressViewIOS>$1</ProgressViewIOS>"],
+    "description": "ProgressViewIOS"
+  },
+  "RefreshControl": {
+    "prefix": "rfc",
+    "body": ["<RefreshControl>$1</RefreshControl>", "$1"],
+    "description": "RefreshControl"
+  },
+  "SafeAreaView": {
+    "prefix": "sav",
+    "body": ["<SafeAreaView>$1</SafeAreaView>", "$1"],
+    "description": "SafeAreaView"
+  },
+  "ScrollView": {
+    "prefix": "sv",
+    "body": ["<ScrollView>$1</ScrollView>", "$1"],
+    "description": "ScrollView"
+  },
+  "SectionList": {
+    "prefix": "sl",
+    "body": ["<SectionList>$1</SectionList>", "$1"],
+    "description": "SectionList"
+  },
+  "SegmentedControlIOS": {
+    "prefix": "iossc",
+    "body": ["<SegmentedControlIOS>$1</SegmentedControlIOS>", "$1"],
+    "description": "SegmentedControlIOS"
+  },
+  "Slider": {
+    "prefix": "s",
+    "body": ["<Slider>$1</Slider>", "$1"],
+    "description": "Slider"
+  },
+  "StatusBar": {
+    "prefix": "sb",
+    "body": ["<StatusBar>$1<StatusBar>", "$1"],
+    "description": "StatusBar"
+  },
+  "Switch": {
+    "prefix": "s",
+    "body": ["<Switch>$1</Switch>", "$1"],
+    "description": "Switch"
+  },
+  "TabBarIOS": {
+    "prefix": "iostb",
+    "body": ["<TabBarIOS>$1</TabBarIOS>", "$1"],
+    "description": "TabBarIOS"
+  },
+  "TabBarIOS.Item": {
+    "prefix": "iostb.i",
+    "body": ["<TabBarIOS.Item>$1</TabBarIOS.Item>", "$1"],
+    "description": "TabBarIOS.Item"
+  },
+  "Text": {
+    "prefix": "t",
+    "body": ["<Text>$1</Text>", "$1"],
+    "description": "Text"
+  },
+  "TextInput": {
+    "prefix": "ti",
+    "body": ["<TextInput>$1</TextInput>", "$1"],
+    "description": "TextInput"
+  },
+  "ToolbarAndroid": {
+    "prefix": "andtb",
+    "body": ["<ToolbarAndroid>$1</ToolbarAndroid>", "$1"],
+    "description": "ToolbarAndroid"
+  },
+  "TouchableHighlight": {
+    "prefix": "th",
+    "body": ["<TouchableHighlight>$1</TouchableHighlight>", "$1"],
+    "description": "TouchableHighlight"
+  },
+  "TouchableNativeFeedback": {
+    "prefix": "tnfb",
+    "body": ["<TouchableNativeFeedback>$1</TouchableNativeFeedback>", "$1"],
+    "description": "TouchableNativeFeedback"
+  },
+  "TouchableOpacity": {
+    "prefix": "to",
+    "body": ["<TouchableOpacity>$1</TouchableOpacity>", "$1"],
+    "description": "TouchableOpacity"
+  },
+  "TouchableWithoutFeedback": {
+    "prefix": "twfb",
+    "body": ["<TouchableWithoutFeedback>$1</TouchableWithoutFeedback>", "$1"],
+    "description": "TouchableWithoutFeedback"
+  },
+  "View": {
+    "prefix": "v",
+    "body": ["<View>$1</View>", "$1"],
+    "description": "View"
+  },
+  "ViewPagerAndroid": {
+    "prefix": "andvp",
+    "body": ["<ViewPagerAndroid>$1</ViewPagerAndroid>", "$1"],
+    "description": "ViewPagerAndroid"
+  },
+  "VirtualizedList": {
+    "prefix": "vl",
+    "body": ["<VirtualizedList>$1</VirtualizedList>", "$1"],
+    "description": "VirtualizedList"
+  }
+}
