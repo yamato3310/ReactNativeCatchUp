@@ -1,63 +1,63 @@
 {
   "ActivityIndicator": {
     "prefix": "ai",
-    "body": ["<ActivityIndicator>$1</ActivityIndicator>", "$1"],
+    "body": ["<ActivityIndicator>$1</ActivityIndicator>"],
     "description": "ActivityIndicator"
   },
   "Button": {
     "prefix": "btn",
-    "body": ["<Button>$1</Button>", "$1"],
+    "body": ["<Button>$1</Button>"],
     "description": "Button"
   },
   "DatePickerIOS": {
     "prefix": "iosdp",
-    "body": ["<DatePickerIOS>$1</DatePickerIOS>", "$1"],
+    "body": ["<DatePickerIOS>$1</DatePickerIOS>"],
     "description": "DatePickerIOS"
   },
   "DrawerLayoutAndroid": {
     "prefix": "anddl",
-    "body": ["<DrawerLayoutAndroid>$1</DrawerLayoutAndroid>", "$1"],
+    "body": ["<DrawerLayoutAndroid>$1</DrawerLayoutAndroid>"],
     "description": "DrawerLayoutAndroid"
   },
   "FlatList": {
     "prefix": "FlatList",
-    "body": ["<FlatList>$1</FlatList>", "$1"],
+    "body": ["<FlatList>$1</FlatList>"],
     "description": "FlatList"
   },
   "Image": { "prefix": "img", "body": ["<Image>$1</Image>"] },
   "ImageBackground": {
     "prefix": "imgbg",
-    "body": ["<ImageBackground>$1</ImageBackground>", "$1"],
+    "body": ["<ImageBackground>$1</ImageBackground>"],
     "description": "Image"
   },
   "InputAccessoryView": {
     "prefix": "input",
-    "body": ["<InputAccessoryView>$1</InputAccessoryView>", "$1"],
+    "body": ["<InputAccessoryView>$1</InputAccessoryView>"],
     "description": "InputAccessoryView"
   },
   "KeyboardAvoidingView": {
     "prefix": "kbav",
-    "body": ["<KeyboardAvoidingView>$1</KeyboardAvoidingView>", "$1"],
+    "body": ["<KeyboardAvoidingView>$1</KeyboardAvoidingView>"],
     "description": "KeyboardAvoidingView"
   },
   "MaskedViewIOS": {
     "prefix": "iosmv",
-    "body": ["<MaskedViewIOS>$1</MaskedViewIOS>", "$1"],
+    "body": ["<MaskedViewIOS>$1</MaskedViewIOS>"],
     "description": "MaskedViewIOS"
   },
   "Modal": {
     "prefix": "m",
-    "body": ["<Modal>$1</Modal>", "$1"],
+    "body": ["<Modal>$1</Modal>"],
     "description": "Modal"
   },
   "Picker": {
     "prefix": "p",
-    "body": ["<Picker>$1</Picker", "$1"],
+    "body": ["<Picker>$1</Picker>"],
     "description": "Picker"
   },
   "PickerIOS": {
     "prefix": "iosp",
-    "body": ["<PickerIOS>$1</PickerIOS", "$1"],
+    "body": ["<PickerIOS>$1</PickerIOS>"],
     "description": "PickerIOS"
   },
   "ProgressBarAndroid": {
@@ -72,102 +72,102 @@
   },
   "RefreshControl": {
     "prefix": "rfc",
-    "body": ["<RefreshControl>$1</RefreshControl>", "$1"],
+    "body": ["<RefreshControl>$1</RefreshControl>"],
     "description": "RefreshControl"
   },
   "SafeAreaView": {
     "prefix": "sav",
-    "body": ["<SafeAreaView>$1</SafeAreaView>", "$1"],
+    "body": ["<SafeAreaView>$1</SafeAreaView>"],
     "description": "SafeAreaView"
   },
   "ScrollView": {
     "prefix": "sv",
-    "body": ["<ScrollView>$1</ScrollView>", "$1"],
+    "body": ["<ScrollView>$1</ScrollView>"],
     "description": "ScrollView"
   },
   "SectionList": {
     "prefix": "sl",
-    "body": ["<SectionList>$1</SectionList>", "$1"],
+    "body": ["<SectionList>$1</SectionList>"],
     "description": "SectionList"
   },
   "SegmentedControlIOS": {
     "prefix": "iossc",
-    "body": ["<SegmentedControlIOS>$1</SegmentedControlIOS>", "$1"],
+    "body": ["<SegmentedControlIOS>$1</SegmentedControlIOS>"],
     "description": "SegmentedControlIOS"
   },
   "Slider": {
     "prefix": "s",
-    "body": ["<Slider>$1</Slider>", "$1"],
+    "body": ["<Slider>$1</Slider>"],
     "description": "Slider"
   },
   "StatusBar": {
     "prefix": "sb",
-    "body": ["<StatusBar>$1<StatusBar>", "$1"],
+    "body": ["<StatusBar>$1<StatusBar>"],
     "description": "StatusBar"
   },
   "Switch": {
     "prefix": "s",
-    "body": ["<Switch>$1</Switch>", "$1"],
+    "body": ["<Switch>$1</Switch>"],
     "description": "Switch"
   },
   "TabBarIOS": {
     "prefix": "iostb",
-    "body": ["<TabBarIOS>$1</TabBarIOS>", "$1"],
+    "body": ["<TabBarIOS>$1</TabBarIOS>"],
     "description": "TabBarIOS"
   },
   "TabBarIOS.Item": {
     "prefix": "iostb.i",
-    "body": ["<TabBarIOS.Item>$1</TabBarIOS.Item>", "$1"],
+    "body": ["<TabBarIOS.Item>$1</TabBarIOS.Item>"],
     "description": "TabBarIOS.Item"
   },
   "Text": {
     "prefix": "t",
-    "body": ["<Text>$1</Text>", "$1"],
+    "body": ["<Text>$1</Text>"],
     "description": "Text"
   },
   "TextInput": {
     "prefix": "ti",
-    "body": ["<TextInput>$1</TextInput>", "$1"],
+    "body": ["<TextInput>$1</TextInput>"],
     "description": "TextInput"
   },
   "ToolbarAndroid": {
     "prefix": "andtb",
-    "body": ["<ToolbarAndroid>$1</ToolbarAndroid>", "$1"],
+    "body": ["<ToolbarAndroid>$1</ToolbarAndroid>"],
     "description": "ToolbarAndroid"
   },
   "TouchableHighlight": {
     "prefix": "th",
-    "body": ["<TouchableHighlight>$1</TouchableHighlight>", "$1"],
+    "body": ["<TouchableHighlight>$1</TouchableHighlight>"],
     "description": "TouchableHighlight"
   },
   "TouchableNativeFeedback": {
     "prefix": "tnfb",
-    "body": ["<TouchableNativeFeedback>$1</TouchableNativeFeedback>", "$1"],
+    "body": ["<TouchableNativeFeedback>$1</TouchableNativeFeedback>"],
     "description": "TouchableNativeFeedback"
   },
   "TouchableOpacity": {
     "prefix": "to",
-    "body": ["<TouchableOpacity>$1</TouchableOpacity>", "$1"],
+    "body": ["<TouchableOpacity>$1</TouchableOpacity>"],
     "description": "TouchableOpacity"
   },
   "TouchableWithoutFeedback": {
     "prefix": "twfb",
-    "body": ["<TouchableWithoutFeedback>$1</TouchableWithoutFeedback>", "$1"],
+    "body": ["<TouchableWithoutFeedback>$1</TouchableWithoutFeedback>"],
     "description": "TouchableWithoutFeedback"
   },
   "View": {
     "prefix": "v",
-    "body": ["<View>$1</View>", "$1"],
+    "body": ["<View>$1</View>"],
     "description": "View"
   },
   "ViewPagerAndroid": {
     "prefix": "andvp",
-    "body": ["<ViewPagerAndroid>$1</ViewPagerAndroid>", "$1"],
+    "body": ["<ViewPagerAndroid>$1</ViewPagerAndroid>"],
     "description": "ViewPagerAndroid"
   },
   "VirtualizedList": {
     "prefix": "vl",
-    "body": ["<VirtualizedList>$1</VirtualizedList>", "$1"],
+    "body": ["<VirtualizedList>$1</VirtualizedList>"],
     "description": "VirtualizedList"
   }
 }
