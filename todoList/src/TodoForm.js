@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, TextInput } from 'react-native';
+import Icon from 'native-base';
 import Styles from './Styles';
 
 export default TodoForm = () => {
@@ -10,8 +11,10 @@ export default TodoForm = () => {
             <TextInput
                 style={todoForm}
                 value={value}
+                clearTextOnFocus={true}
                 onChangeText={text => onChangeText(text)}
             ></TextInput>
+            <Icon type="Feather" name='plus' onPress={}></Icon>
         </View>
     )
 }
