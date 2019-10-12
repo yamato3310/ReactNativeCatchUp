@@ -19,14 +19,26 @@ export default Styles = {
         flex: 1
     },
     todoForm: {
+        alignSelf: 'center',
         borderBottomWidth: 1,
         borderBottomColor: '#99F84B',
+        flexDirection: 'row',
         fontSize: 24,
         height: 24,
+        justifyContent: 'space-between',
         marginTop: 10,
         outline: 0,
         textAlign: 'center',
         width: '80%',
+    },
+    inputForm: {
+        textAlign: 'center',
+        width: '90%',
+        height: '100%',
+    },
+    todoFormIcon: {
+        height: 24,
+        width: 24,
     },
     todoList: {
         flex: 1
