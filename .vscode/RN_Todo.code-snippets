@@ -24,10 +24,10 @@
     "body": ["<FlatList>$1</FlatList>"],
     "description": "FlatList"
   },
-  "Image": { "prefix": "img", "body": ["<Image>$1</Image>"] },
+  "Image": { "prefix": "img", "body": ["<Image $1 />"] },
   "ImageBackground": {
     "prefix": "imgbg",
-    "body": ["<ImageBackground>$1</ImageBackground>"],
+    "body": ["<ImageBackground $1 />"],
     "description": "Image"
   },
   "InputAccessoryView": {
